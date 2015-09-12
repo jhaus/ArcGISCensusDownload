@@ -4,7 +4,7 @@ import urllib2, json, os, sys, traceback
 censusAPIkey = "insert_your_key_here"
 # enter your Census API key above
 # request an API key here:
-# http://www.census.gov/developers/tos/key_request.html
+# http://api.census.gov/data/key_signup.html
 
 
 class Toolbox(object):
